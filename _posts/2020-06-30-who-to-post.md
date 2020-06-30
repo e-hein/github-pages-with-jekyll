@@ -1,5 +1,5 @@
 ---
-title: First Blog Page
+title: "First Blog Page"
 date: 2020-07-01
 ---
 
