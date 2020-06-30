@@ -1,3 +1,8 @@
+---
+title: First Blog Page
+date: 2020-07-01
+---
+
 Today I'm learning how to work with github pages
 ================================================
 
