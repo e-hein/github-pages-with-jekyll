@@ -1,4 +1,5 @@
-<h1>Today I'm learning how to work with github pages</h1>
+Today I'm learning how to work with github pages
+================================================
 
 <p onclick="addContent()">
   and I'll try to use some js
